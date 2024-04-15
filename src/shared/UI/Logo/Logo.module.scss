@@ -1,0 +1,19 @@
+
+.logo {
+  display: flex;
+  gap: 6px;
+  font-weight: 800;
+  background-color: var(--dark-blue);
+  font-size: 1.5rem;
+  width: fit-content;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+.log {
+  color: whitesmoke;
+}
+
+.analysis {
+  color: var(--yellow);
+}
